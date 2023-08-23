@@ -1,0 +1,9 @@
+.chart-item {
+  display: flex;
+  gap: 2rem;
+}
+
+.item-info {
+  display: flex;
+  flex-direction: column;
+}
